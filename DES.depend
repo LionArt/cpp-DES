@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1494916393 source:e:\studia\bezpieczeñstwo sieci\sprawozdania\sprawozdanie 3\des\main.cpp
+	<iostream>
+	<Block.h>
+	<math.h>
+	<iomanip>
+	<stdlib.h>
+	<fstream>
+
+1494236166 e:\studia\bezpieczeñstwo sieci\sprawozdania\sprawozdanie 3\des\include\block.h
+	<vector>
+
+1494236166 source:e:\studia\bezpieczeñstwo sieci\sprawozdania\sprawozdanie 3\des\src\block.cpp
+	"Block.h"
+
+1494916394 source:e:\bezpieczeñstwo sieci\bsk - des\des\main.cpp
+	<iostream>
+	<Block.h>
+	<math.h>
+	<iomanip>
+	<stdlib.h>
+	<fstream>
+
+1494236168 e:\bezpieczeñstwo sieci\bsk - des\des\include\block.h
+	<vector>
+
+1494236168 source:e:\bezpieczeñstwo sieci\bsk - des\des\src\block.cpp
+	"Block.h"
+
